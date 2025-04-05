@@ -3,7 +3,6 @@ package feign
 import (
 	"bytes"
 	"encoding/json"
-	"io"
 	"net/http"
 	"time"
 )
